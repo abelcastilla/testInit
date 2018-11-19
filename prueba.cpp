@@ -8,6 +8,9 @@ int lanzamientoDados(int dados){
     return dados;
 }
 
+// como lo he hecho mal voy a añadir una nueva funcion
+void funcionTest3210(){}
+
 // este es un main de prueba para corroborar que tanto
 // la creacion de nuevos comentarios no afecta a una rama ya creada
 int main()
